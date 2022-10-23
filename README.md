@@ -13,3 +13,18 @@
 <hr />
 
 ### 🛠 Tools that I use:
+<h3 align="left">
+
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/js.svg) <br />
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/react.svg) <br />
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/prettier.svg) <br />
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/npm.svg) <br />
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/material-ui.svg) <br />
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/markdown.svg) <br />
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/html.svg) <br />
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/github-actions.svg) <br />
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/git.svg) <br />
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/css.svg) <br />
+![](https://github.com/andrealmeida-24/andrealmeida-24/blob/main/bootstrap.svg) <br />
+
+</h3>
