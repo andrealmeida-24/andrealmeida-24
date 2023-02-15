@@ -5,7 +5,6 @@
 
 ### 👨🏻‍💻 About Me:
 - 🙋🏻‍♂️ All about me at [My Website](https://andrealmeida-24.github.io/My-Portfolio/).
-- ⚛️ I’m currently learning **React.js**.
 - 👥  I’m looking to collaborate in new **Projects**.
 - 🤓 I’m looking for to help you with **Programming**.
 - 🎮 Fun fact: I waste most of my time playing games.
